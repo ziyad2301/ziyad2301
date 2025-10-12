@@ -67,14 +67,6 @@ I focus on crafting clean, efficient, and user-centric digital solutions that br
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziyad2301&show_icons=true&theme=radical&hide_border=true" alt="Ziyad's GitHub stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyad2301&theme=radical&hide_border=true" alt="Ziyad's GitHub streak" height="180em" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/mohd-ziyad" target="_blank">
