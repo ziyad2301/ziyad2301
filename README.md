@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Mohammed Ziyad</h1>
 <h3 align="left">Full-Stack Developer | Django | React | Vue | .NET | FastAPI</h3>
-
 <p>
-Software Engineer at <b>DEIENAMI Private Limited</b> with 2 years of experience building scalable web applications using <b>Python (Django)</b>, <b>React</b>, <b>Vue</b>, and <b>.NET</b>.  
-I focus on crafting clean, efficient, and user-centric digital solutions that bridge backend logic with intuitive frontend experiences.
+Software Engineer at <b>DEIENAMI Private Limited</b> with 2 years of experience building scalable web applications using <b>Python (Django, FastAPI)</b>, <b>React</b>, <b>Vue</b>, and <b>.NET</b>.  
+I focus on crafting clean, efficient, and user-centric digital solutions that bridge backend logic with intuitive frontend experiences, deployed on cloud infrastructure.
 </p>
 
 - 📩 Reach me at **[ziyad.szakeer@gmail.com](mailto:ziyad.szakeer@gmail.com)**  
@@ -16,13 +15,15 @@ I focus on crafting clean, efficient, and user-centric digital solutions that br
 ---
 
 ### 💼 Experience
+
 - **Software Engineer** @ DEIENAMI Private Limited (Jan 2024 – Present)  
-  Working on full-stack web applications using Django, React, and Vue.  
-  Involved in backend development, frontend integration, and feature architecture.
+  Working on full-stack web applications using Django, FastAPI, React, and Vue.  
+  Involved in backend development, API design, frontend integration, feature architecture, and cloud deployment on AWS.
 
 ---
 
 ### 🥇 Certifications & Achievements
+
 - Responsive Web Design using CSS – Codekaro  
 - Data Visualization for Business Insights – TCS  
 - Python and Django Framework – Udemy  
@@ -32,6 +33,7 @@ I focus on crafting clean, efficient, and user-centric digital solutions that br
 ---
 
 ### 🧠 Tech Stack
+
 <img align="right" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 #### 🖥️ Frontend
@@ -46,6 +48,7 @@ I focus on crafting clean, efficient, and user-centric digital solutions that br
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
@@ -55,6 +58,13 @@ I focus on crafting clean, efficient, and user-centric digital solutions that br
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Platforms
@@ -68,6 +78,7 @@ I focus on crafting clean, efficient, and user-centric digital solutions that br
 ---
 
 ### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/mohd-ziyad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
