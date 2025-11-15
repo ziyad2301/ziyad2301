@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohammed Ziyad</h1>
-<h3 align="left">Full-Stack Developer | Django | React | Vue | .NET</h3>
+<h3 align="left">Full-Stack Developer | Django | React | Vue | .NET | FastAPI</h3>
 
 <p>
 Software Engineer at <b>DEIENAMI Private Limited</b> with 2 years of experience building scalable web applications using <b>Python (Django)</b>, <b>React</b>, <b>Vue</b>, and <b>.NET</b>.  
